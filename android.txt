@@ -1,0 +1,3 @@
+title=spritesheet_viewer
+author=STROS
+orientation=landscape
